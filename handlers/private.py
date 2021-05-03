@@ -30,10 +30,10 @@ The commands I currently support are:
             [
                 [
                     InlineKeyboardButton(
-                        "Group 💬", url="https://t.me/hellbot_official_chat"
+                        "Group 💬", url="https://t.me/Javes_3"
                     ),
                     InlineKeyboardButton(
-                        "Channel 📣", url="https://t.me/hellbot_official"
+                        "Channel 📣", url="https://t.me/Javes_3"
                     )
                 ]
             ]
